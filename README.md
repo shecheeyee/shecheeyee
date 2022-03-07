@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shecheeyee
 - 👀 I’m interested in blockchain and fintech!
+- 🌱 I’m currently learning AWS cloud and Tableau!
 - 💞️ I’m looking to collaborate on any Fintech/Blockchain projects
 - 📫 How to reach me: shecheeyee@gmail.com
 
