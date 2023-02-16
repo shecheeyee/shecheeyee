@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shecheeyee
-- 👀 I’m interested in blockchain and fintech!
-- 🌱 I’m currently learning AWS cloud and Tableau!
-- 💞️ I’m looking to collaborate on any Fintech/Blockchain projects
+- 👀 I’m interested in Data Science!
+- 🌱 I’m currently learning PyTorch and Spark!
+- 💞️ I’m looking to collaborate on any Machine Learning/ Data Science projects
 - 📫 How to reach me: shecheeyee@gmail.com
 
 <!---
